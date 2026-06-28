@@ -10,13 +10,6 @@ Email Me 👉 ✉️ **faiqa28bpl@gmail.com** For Collaboration/Project. 😊�
 ![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faiqaaaa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@Faiqa127410) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faiqa28bpl@gmail.com) 
 
@@ -26,6 +19,13 @@ Email Me 👉 ✉️ **faiqa28bpl@gmail.com** For Collaboration/Project. 😊�
 ![](https://github-readme-stats.shion.dev/api?username=faiqa2805&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=faiqa2805&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=faiqa2805&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=faiqa2805&limit=5&theme=dark&combine_all_yearly_contributions=true)
