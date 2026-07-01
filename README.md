@@ -1,9 +1,8 @@
 # 💫 Hi 👋, I'm Faiqa
 **A curious Developer exploring the vastness....**
 
-Email Me 👉 ✉️ **faiqa28bpl@gmail.com** For Collaboration/Project. 😊😊
+Email Me 👉 📫 **faiqa28bpl@gmail.com** For Collaboration/Project. 😊😊
 
-- 📫 **How to reach me:** faiqa28bpl@gmail.com
 - ⚡ **Fun fact:** cosmos has been quite a gud bedtime story for me
 
 ## 🏆 GitHub Trophies
