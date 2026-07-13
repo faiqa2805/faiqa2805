@@ -4,9 +4,9 @@
 Email Me 👉 📫 **faiqa28bpl@gmail.com** For Collaboration/Project. 😊😊
 
 - ⚡ **Fun fact:** cosmos has been quite a gud bedtime story for me
-
+<!--
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)-->
 
 
 <!-- Snake Game Repo View -->
